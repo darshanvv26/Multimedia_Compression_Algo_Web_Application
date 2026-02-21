@@ -6,7 +6,9 @@ A full-stack web application that demonstrates four classic data compression alg
 
 ## 🐳 Docker
 
-**Image Repository:** [Docker Hub – `darshanmakwana412/compression`](https://hub.docker.com/r/darshanmakwana412/compression)
+**Image Repository:** [Docker Hub – `darshanvv26/compression-backend`](https://hub.docker.com/repository/docker/darshanvv26/compression-backend/)
+
+**Image Repository:** [Docker Hub – `darshanvv26/compression-frontend`](https://hub.docker.com/repository/docker/darshanvv26/compression-frontend/)
 
 > Pull and run the full stack with Docker Compose:
 
