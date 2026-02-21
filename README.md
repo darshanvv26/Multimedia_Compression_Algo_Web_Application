@@ -14,7 +14,7 @@ A full-stack web application that demonstrates four classic data compression alg
 
 ```bash
 # Clone the repository
-git clone https://github.com/darshanmakwana412/compression.git
+git clone https://github.com/darshanvv26/compression.git
 cd compression
 
 # Pull and start all services
