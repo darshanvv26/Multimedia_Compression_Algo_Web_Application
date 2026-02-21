@@ -14,8 +14,8 @@ A full-stack web application that demonstrates four classic data compression alg
 
 ```bash
 # Clone the repository
-git clone https://github.com/darshanvv26/compression.git
-cd compression
+git clone https://github.com/darshanvv26/Multimedia_Compression_Algo_Web_Application.git
+cd Multimedia_Compression_Algo_Web_Application
 
 # Pull and start all services
 docker compose up --build
@@ -31,7 +31,7 @@ docker compose up --build
 ## 📁 Project Structure
 
 ```
-compression/
+Multimedia_Compression_Algo_Web_Application/
 │
 ├── 📓 Arithmetic_Compression.ipynb          # Jupyter notebook – Arithmetic coding exploration
 ├── 📓 Dynamic_Huffman_Compression.ipynb     # Jupyter notebook – Dynamic Huffman exploration
